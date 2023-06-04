@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "icon": "work_out",
+        "name": " push-ups",
+        "target": 10,
+        "days": [
+            {"comment": "The first set is always the hardest"},
+            {"comment": "The second is much easier"}
+        ]
+    },
+    {
+        "id": 2,
+        "icon": "food",
+        "name": "Proper nutrition",
+        "target": 10,
+        "days": [{"comment": "Good things"}]
+    }
+]
